@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/jvWRXBZ/top-view-desk-concept-with-coffee-1.jpg",
+        "title": "The Art of Programming",
+        "author": "Alice Smith",
+        "author_img": "https://i.ibb.co.com/KhSY97B/boy-sitting-black-sofa-taking-notes-notebook.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": "15 min",
+        "hashtags": [
+            "#programming", 
+            "#coding", 
+            "#tech"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/MC1MQ9x/top-view-desk-concept-with-coffee.jpg",
+        "title": "Understanding AI",
+        "author": "Bob Johnson",
+        "author_img": "https://i.ibb.co.com/7nFVtHg/good-looking-young-man-stylish-black-hat-sitting-table-with-mobile-phone-mug.jpg",
+        "posted_date": "2023-08-22",
+        "reading_time": "10 min",
+        "hashtags": ["#AI", "#machinelearning", "#innovation"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/MC1MQ9x/top-view-desk-concept-with-coffee.jpg",
+        "title": "Web Development Basics",
+        "author": "Carol White",
+        "author_img": "https://i.ibb.co.com/Dp4G1JS/lovely-woman.jpg",
+        "posted_date": "2023-07-30",
+        "reading_time": "12 min",
+        "hashtags": ["#webdev", "#html", "#css"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/MC1MQ9x/top-view-desk-concept-with-coffee.jpg",
+        "title": "Data Science Simplified",
+        "author": "David Brown",
+        "author_img": "https://i.ibb.co.com/VCWbGK7/serious-young-caucasian-female-blogger-sitting-desk-with-open-notebook-glasses-mug-making-notes-whil.jpg",
+        "posted_date": "2023-09-01",
+        "reading_time": "20 min",
+        "hashtags": ["#datascience", "#statistics", "#analytics"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/MC1MQ9x/top-view-desk-concept-with-coffee.jpg",
+        "title": "Cybersecurity Essentials",
+        "author": "Eva Green",
+        "author_img": "https://i.ibb.co.com/VCWbGK7/serious-young-caucasian-female-blogger-sitting-desk-with-open-notebook-glasses-mug-making-notes-whil.jpg",
+        "posted_date": "2023-08-05",
+        "reading_time": "18 min",
+        "hashtags": ["#cybersecurity", "#infosec", "#privacy"]
+    }
+   
+]
